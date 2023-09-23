@@ -1,0 +1,5 @@
+Have you ever wondered what the other two pedals on your digital piano are for?
+
+You can use it to turn the pages of your sheet music!
+
+DoReMidi is a PDF viewer based on MuPDF where you can use any connected MIDI device to go forward or back in the document.

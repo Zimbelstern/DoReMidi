@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="settings">Einstellungen</string>
+	<string name="devices">MIDI-Geräte</string>
+	<string name="device_type">Typ des Midi-Geräts</string>
+	<string name="no_devices_connected">Keine MIDI-Geräte verbunden</string>
+	<string name="usb">USB</string>
+	<string name="bluetooth">Bluetooth</string>
+	<string name="virtual">Virtuell</string>
+	<string name="ok">OK</string>
+	<string name="event_log">Letzte MIDI-Events verbundener Geräte</string>
+	<string name="save">Speichern</string>
+	<string name="action">Aktion</string>
+	<string name="custom">Benutzerdefiniert</string>
+	<string name="status">Status</string>
+	<string name="channel">Kanal</string>
+	<string name="data_byte_1">Datenbyte 1</string>
+	<string name="data_byte_2">Datenbyte 2</string>
+	<string name="set_filter">MIDI-Filter einstellen</string>
+	<string name="page_forward">Seite vor</string>
+	<string name="page_back">Seite zurück</string>
+	<string name="sostenuto_pedal">Sostenuto-Pedal</string>
+	<string name="soft_pedal">Leisepedal</string>
+	<string name="unknown">Unbekannt</string>
+	<string name="connected_midi_devices">Verbundene MIDI-Geräte</string>
+	<string name="welcome">Willkommen bei DoReMidi!</string>
+	<string name="general_settings">Allgemeine Einstellungen</string>
+	<string name="page_turn_triggers">Umblätter-Auslöser</string>
+	<string name="about_app_name">Über %s</string>
+	<string name="website">Webseite</string>
+	<string name="version">Version</string>
+	<string name="license">Lizenz</string>
+	<string name="code">Quellcode</string>
+	<string name="issues">Bugtracker</string>
+	<string name="donate">Spenden</string>
+</resources>

@@ -1,0 +1,5 @@
+Haben Sie sich schon mal gefragt, wofür die anderen zwei Pedale am Klavier da sind?
+
+Sie können damit Noten umblättern!
+
+DoReMidi ist ein auf MuPDF basierender PDF-Betrachter, in dem man mit einem verbundenen MIDI-Gerät vor- und zurückgehen kann.
