@@ -7,7 +7,10 @@ version = '1.23.3a'
 
 dependencies {
 	implementation 'androidx.appcompat:appcompat:1.6.1'
-	api 'com.artifex.mupdf:fitz:1.23.3'
+	if (file('../mupdf-jni/build.gradle').isFile())
+		api project(':mupdf-jni')
+	else
+		api 'com.artifex.mupdf:fitz:1.23.3'
 }
 
 android {
