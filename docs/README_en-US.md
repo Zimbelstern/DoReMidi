@@ -26,7 +26,7 @@ EN
 
 # DoReMidi
 <p style="font-size: 1.25em;">
-  MIDI sheet music page-turner
+  MIDI sheet music page-turner for Android
 </p>
 
 Have you ever wondered what the other two pedals on your digital piano are for?
@@ -44,7 +44,7 @@ DoReMidi is a PDF viewer based on MuPDF where you can use any connected MIDI dev
 - With an F-Droid compatible client (recommended)
 <br/><a href="https://zimbelstern.eu/fdroid/repo"><img alt="Official repository" src="https://zimbelstern.eu/badge.svg" style="height:75px"/></a>
 
-- Alternatively, you can download the latest APK directly from <https://doremidi.zimbelstern.eu/doremidi-latest.apk>
+- [Direct download](https://doremidi.zimbelstern.eu/doremidi.apk) (no updates)
 
 ## Where to get sheet music
 [Here is a list of databases.](https://en.wikipedia.org/wiki/List_of_online_music_databases#Printed_music_(sheets)_databases)

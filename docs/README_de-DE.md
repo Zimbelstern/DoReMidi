@@ -16,7 +16,7 @@
 
 # DoReMidi
 <p style="font-size: 1.25em;">
-  MIDI-Noten-Umblätterer
+  MIDI-Noten-Umblätterer für Android
 </p>
 
 Haben Sie sich schon mal gefragt, wofür die anderen zwei Pedale am Klavier da sind?
@@ -34,7 +34,7 @@ DoReMidi ist ein auf MuPDF basierender PDF-Betrachter, in dem man mit einem verb
 - Mit der F-Droid-App (empfohlen)
 <br/><a href="https://zimbelstern.eu/fdroid/repo"><img alt="Zimbelsterns offizielle Paketquelle" src="https://zimbelstern.eu/badge.svg" style="height:75px"/></a>
 
-- Das jeweils aktuelle APK finden Sie auch unter <https://doremidi.zimbelstern.eu/doremidi-latest.apk>
+- [Direkter Download](https://doremidi.zimbelstern.eu/doremidi.apk) (keine Aktualisierungen)
 
 ## Wo man Noten bekommt
 [Hier ist eine Liste mit Datenbanken.](https://en.wikipedia.org/wiki/List_of_online_music_databases#Printed_music_(sheets)_databases)
